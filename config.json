@@ -1,0 +1,10 @@
+{
+    "url": "http://a.com/login",
+    "logout_url": "http://a.com/logout?erase-cookie=yes&var=callBack",
+    "method": "POST",
+    "length": 10,
+    "digits": "0123456789",
+    "prefix": "205610330",
+    "suffix": "",
+    "count": 200
+}
