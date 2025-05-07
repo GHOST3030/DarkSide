@@ -137,7 +137,7 @@ function generateUsername() {
                     }
                 }
             } else {
-                console.log(chalk.red(`[-] Invalid: ${username}`));
+                console.log(chalk.red(`[-] Invalid: ${username}`+response.data));
             }
 
             const End = Date.now();

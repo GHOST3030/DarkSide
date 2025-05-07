@@ -4,7 +4,7 @@
     "method": "POST",
     "length": 10,
     "digits": "0123456789",
-    "prefix": "205610330",
-    "suffix": "",
-    "count": 200
+    "prefix": "2",
+    "suffix": "505",
+    "count": 20000000
 }
